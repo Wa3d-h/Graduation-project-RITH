@@ -18,6 +18,6 @@ Aim of this project is to develop a remote rehabilitation physiotherapy program 
 3-Ensure that the patient is performing the exercises correctly by providing direct feedback Messages.
 
 ## METHODOLOGY
-<img src=""  width"500">
+<img src="https://github.com/Wa3d-h/Graduation-project/assets/102664990/f0c22e08-1af2-46c4-98a8-4958e3b83027"  width="500">
 
 
