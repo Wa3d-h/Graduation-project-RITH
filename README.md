@@ -35,5 +35,5 @@ Aim of this project is to develop a remote rehabilitation physiotherapy program 
 <img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/a69ab8a3-06bc-4f02-b6b9-d164451448ec"  width="500">
 
 ## demo (Click on logo to watch the video):
-<img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/f36ec7b6-d97a-4c3e-a4f2-f86bc1661bcb"  width="500">
 
+[<img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/f36ec7b6-d97a-4c3e-a4f2-f86bc1661bcb"  width="300">](https://www.youtube.com/watch?v=Vh7x3JBNJgM)
