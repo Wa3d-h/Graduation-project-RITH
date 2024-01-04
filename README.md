@@ -18,6 +18,21 @@ Aim of this project is to develop a remote rehabilitation physiotherapy program 
 3-Ensure that the patient is performing the exercises correctly by providing direct feedback Messages.
 
 ## METHODOLOGY
+### system design
+
 <img src="https://github.com/Wa3d-h/Graduation-project/assets/102664990/f0c22e08-1af2-46c4-98a8-4958e3b83027"  width="500">
 
+<img src="https://github.com/Wa3d-h/Graduation-project/assets/102664990/7bfdef2f-33a6-4932-912d-7c904bd086f3"  width="500">
+
+## System testing
+<img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/5dacc2e8-f6ae-4cd0-89eb-39d495c616b"  width="500">
+
+<img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/8c40047d-a5cf-454a-b7c0-77e53b71e3b3"  width="500">
+
+## Scientific poster:
+
+<img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/a69ab8a3-06bc-4f02-b6b9-d164451448ec"  width="500">
+
+## demo (Click on logo to watch the video):
+<img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/f36ec7b6-d97a-4c3e-a4f2-f86bc1661bcb"  width="500">
 
