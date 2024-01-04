@@ -25,7 +25,8 @@ Aim of this project is to develop a remote rehabilitation physiotherapy program 
 <img src="https://github.com/Wa3d-h/Graduation-project/assets/102664990/7bfdef2f-33a6-4932-912d-7c904bd086f3"  width="500">
 
 ## System testing
-<img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/5dacc2e8-f6ae-4cd0-89eb-39d495c616b"  width="500">
+
+<img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/ac47644f-055c-42a5-b2bf-150be057011b"  width="500">
 
 <img src="https://github.com/Wa3d-h/My-DB-project/assets/102664990/8c40047d-a5cf-454a-b7c0-77e53b71e3b3"  width="500">
 
